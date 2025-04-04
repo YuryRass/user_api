@@ -1,0 +1,6 @@
+# VSCode
+__pycache__/
+.vscode/
+
+# Python enviroments
+.env
